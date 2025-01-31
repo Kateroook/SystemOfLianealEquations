@@ -1,0 +1,12 @@
+# ninja log v6
+21	939	7551404564302237	CMakeFiles/SystemOfLianealEquations.dir/main.cpp.obj	600d843d60a3e7eb
+63	1861	7554327798125476	CMakeFiles/SystemOfLianealEquations.dir/squareRoots.cpp.obj	f7d3b18a3f9a9781
+903	1101	7554331708424073	SystemOfLianealEquations.exe	133bf8faab57dd41
+6	429	7551503379825120	build.ninja	4fe28335c2693ad0
+44	1309	7553811888770818	CMakeFiles/SystemOfLianealEquations.dir/seidel.cpp.obj	583ada0391656d77
+7	903	7554331699454608	CMakeFiles/SystemOfLianealEquations.dir/test.cpp.obj	a8ce4464c265d84b
+22	1126	7551379997633290	CMakeFiles/SystemOfLianealEquations.dir/test1.cpp.obj	1d158193963ebfa9
+33	1326	7553811888668054	CMakeFiles/SystemOfLianealEquations.dir/gauss.cpp.obj	9d5a6d863002ff58
+29	1222	7553811888630950	CMakeFiles/SystemOfLianealEquations.dir/functions.cpp.obj	bb6e860aa9453e37
+15	913	7554332506465193	CMakeFiles/SystemOfLianealEquations.dir/test.cpp.obj	a8ce4464c265d84b
+914	1096	7554332515457113	SystemOfLianealEquations.exe	133bf8faab57dd41
